@@ -4,12 +4,9 @@
 **Kalis-Be/Kalis-Be** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Gracias por visitar mi repositorio 
 - Soy estudiante de ingeniería en sistemas.
-- Me encanta la tecnologí.
-- Planeo desarrollar software educativo para personas con necesidades diferentes ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Me encanta la tecnología.
+- Planeo desarrollar software educativo.
+
 -->
