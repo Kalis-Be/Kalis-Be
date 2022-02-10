@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hello word!!! 👋
 ![](https://user-images.githubusercontent.com/99373782/153359082-9891c2f8-69f4-4258-83f0-c5dfbe69ace3.png)
-<!--![Kalis-Be](https://user-images.githubusercontent.com/99373782/153357947-50a8c7d5-c6f5-4393-9fc1-7dd681b32109.png)
-
 **Kalis-Be/Kalis-Be** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
