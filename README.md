@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 - Me encanta la tecnología.
 - Planeo desarrollar software educativo.
 
-| Horario 	| Lunes | Martes | Miercoles | Jueves | Viernes |
-|----------	|:-----:|:------:|:---------:|:------:|:-------:|
-| 12:00    	|   	|  30 	|
-| 13:00    	|   	|  30 	|
-| 14:00   	| 11 	|  27 	|
-| 15:00     | 22 	| 333 	|
-| 16:00   	| 22 	| 333 	|
+| Horario 	| Lunes   | Martes | Miercoles | Jueves | Viernes |
+|----------	|:-------:|:------:|:---------:|:------:|:-------:|
+| 12:00    	| simulacion | simulacion | Topicos  	|simulacion | Topicos  	|
+| 13:00    	| Topicos  	| simulacion |Topicos  	|simulacion | Topicos  	|
+| 14:00   	| |  	|| |	|  
+| 15:00     | Taller SO|Taller SO|Taller SO|Taller SO|
+| 16:00   	| Lenguaje de interfaz	|Lenguaje de interfaz	|Lenguaje de interfaz	|Lenguaje de interfaz	|
 -->
